@@ -12,7 +12,7 @@ aside: false
 
 ## Список ключей продуктов
 
-| Product ID | Family | Activation Type | Default Key |
+| ID продукта | Семейство | Тип активации | Ключ по умолчанию |
 | :-- | :-- | :-- | :-- |
 | Access2019Retail | Office19R | Key | NR2B6-YBFTG-JFMKK-FGDKF-GX2DJ |
 | Access2019Volume | Office19 | MAK, KMS | 9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT |
