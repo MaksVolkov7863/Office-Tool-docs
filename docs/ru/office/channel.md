@@ -13,7 +13,7 @@ aside: false
 
 ## Список каналов обновлений
 
-| Branch | FFN | Название канала | ID канала |
+| Ветка | FFN | Название канала | ID канала |
 | :-- | :-- | :-- | :-- |
 | Production::LTSC | f2e724c1-748f-4b47-8fb8-8e0d210e9208 | Office 2019 Perpetual Enterprise Channel | PerpetualVL2019 |
 | Production::LTSC2021 | 5030841d-c919-4594-8d2d-84ae4f96e58e | Office 2021 Perpetual Enterprise Channel | PerpetualVL2021 |
