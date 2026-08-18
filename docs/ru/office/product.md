@@ -12,7 +12,7 @@ Volume-продукты могут сосуществовать только с�
 
 Visio и Project могут сосуществовать с любыми пакетами Office.
 
-| Family | Abbreviated name | Activation Type | Specified Update Channel |
+| Семейство | Краткое имя | Тип активации | Канал обновлений |
 | :--- | :--- | :--- | :--- |
 | Microsoft 365 | M365 | Subscription | |
 | Office 2016 Volume | Office16 | Key & KMS | |
@@ -28,7 +28,7 @@ Visio и Project могут сосуществовать с любыми пак�
 
 ### Пакеты Office
 
-| Product ID | Product Name | Apps | Add-Ons | Family |
+| ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
 | Home2024Retail | Office Home 2024 | Excel, OneDrive, OneNote, PowerPoint, Word | PowerPivot | Office24R |
 | HomeBusiness2019Retail | Office Home and Business 2019 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word | PowerPivot | Office19R |
@@ -76,7 +76,7 @@ Visio и Project могут сосуществовать с любыми пак�
 
 ### Visio
 
-| Product ID | Product Name | Apps | Add-Ons | Family |
+| ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
 | VisioPro2019Retail | Visio Professional 2019 | Groove, OneDrive | | Office19R |
 | VisioPro2019Volume | Visio Professional 2019 | Groove, OneDrive | | Office19 |
@@ -99,7 +99,7 @@ Visio и Project могут сосуществовать с любыми пак�
 
 ### Project
 
-| Product ID | Product Name | Apps | Add-Ons | Family |
+| ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
 | ProjectPro2019Retail | Project Professional 2019 | | | Office19R |
 | ProjectPro2019Volume | Project Professional 2019 | | | Office19 |
@@ -122,7 +122,7 @@ Visio и Project могут сосуществовать с любыми пак�
 
 ### Отдельные приложения
 
-| Product ID | Product Name | Apps | Add-Ons | Family |
+| ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
 | Access2019Retail | Access 2019 | | | Office19R |
 | Access2019Volume | Access 2019 | | | Office19 |

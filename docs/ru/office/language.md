@@ -8,7 +8,7 @@ aside: false
 
 ## Список языков
 
-| Culture | Language | Name | Proofing Languages | ID | Type |
+| Culture | Язык | Название | Языки проверки | ID | Тип |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | af-za | Afrikaans (Suid-Afrika) | Afrikaans (South Africa) | | 1078 | Partial & Proofing |
 | am-et | አማርኛ (ኢትዮጵያ) | Amharic (Ethiopia) | | 1118 | Partial |
